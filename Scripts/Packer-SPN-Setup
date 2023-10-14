@@ -1,0 +1,1 @@
+az ad sp create-for-rbac -n packer1 --role Contributor --scopes /subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
