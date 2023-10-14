@@ -1,8 +1,6 @@
 # SCS2023-AVD-Mastering-Code-Based-Deployment-Workshop
 Files for the 2023 South Coast Summit AVD Mastering Code based Deployment Workshop
 
-[![Check Links](https://github.com/jakewalsh90/SCS2023-AVD-Mastering-Code-Based-Deployment-Workshop/actions/workflows/links.yml/badge.svg)](https://github.com/jakewalsh90/SCS2023-AVD-Mastering-Code-Based-Deployment-Workshop/actions/workflows/links.yml)
-
 [https://www.southcoastsummit.com/workshop/avd-mastering-code-based-deployment/](https://www.southcoastsummit.com/workshop/avd-mastering-code-based-deployment/)
 
 #### ⚠ Please note: this repo was for a one day workshop and may not be updated after 13/Oct/2023!
